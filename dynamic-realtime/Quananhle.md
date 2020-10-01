@@ -85,7 +85,7 @@
 ---
 ### 👀 Active Repo
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=Data-Structure-and-Algorithms&theme=radical "AData-Structure-and-Algorithms")](https://github.com/Quananhle/Data-Structure-and-Algorithms)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=OOP-JAVA-and-Android-App-Developer&theme=highcontrast "Android-Software-Development")](https://github.com/Quananhle/OOP-JAVA-and-Android-App-Developer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Quananhle&repo=OOP-and-Android-App-Development&theme=highcontrast "Android-Software-Development")](https://github.com/Quananhle/OOP-and-Android-App-Development)
 
 <!-- ### 🏆 Github Status
 ![Top Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=quananhle&show_icons=true&theme=tokyonight&hide_border=true)
